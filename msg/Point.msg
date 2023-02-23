@@ -1,0 +1,2 @@
+resource_management_msgs/MessagePriority priority
+geometry_msgs/PointStamped data
